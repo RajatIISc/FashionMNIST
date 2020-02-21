@@ -1,2 +1,4 @@
-# FashionMNIST
-Deep Learning project 2
+# Deep Learning project 2
+
+Run main.py
+
